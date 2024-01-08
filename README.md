@@ -1,10 +1,10 @@
 Steps to start DBT:
 
-Step 1 : pip install dbt-bigquery
-Step 2: Enter your basic details , can pass if you want
-Step 3: Find the following file C/Users/{name}/.dbt/profiles.yml and update it accordingly[ With the service account key]
-Step 4: Modify the model in model directory
-Step 5: dbt run
+- Step 1 : pip install dbt-bigquery
+- Step 2: Enter your basic details , can pass if you want
+- Step 3: Find the following file C/Users/{name}/.dbt/profiles.yml and update it accordingly[ With the service account key]
+- Step 4: Modify the model in model directory
+- Step 5: dbt run
 
 
 ### Using the starter project
